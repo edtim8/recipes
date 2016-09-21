@@ -2,4 +2,4 @@ apple
 banana
 watermelon
 
-Make Juice
+Make Apple Juice
